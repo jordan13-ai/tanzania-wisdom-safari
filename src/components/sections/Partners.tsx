@@ -10,11 +10,6 @@ const partners = [
         link: "https://www.safaribookings.com/p1813",
     },
     {
-        name: "TATO",
-        logo: "/images/patner/tato2.webp",
-        link: "https://www.tatotz.org/",
-    },
-    {
         name: "NCAA",
         logo: "/images/patner/ncaa.webp",
         link: "https://www.ncaa.go.tz/",

@@ -27,11 +27,11 @@ const reasons = [
   },
   {
     icon: Award,
-    stat: "TATO",
+    stat: "Certified",
     statLabel: "Licensed",
     title: "Licensed Tour Operator",
     description:
-      "We are a fully licensed member of the Tanzania Association of Tour Operators, giving you complete peace of mind.",
+      "We are a fully licensed and certified tour operator, giving you complete peace of mind on every journey.",
   },
   {
     icon: HeartHandshake,
@@ -180,7 +180,7 @@ export function WhyChooseUs() {
           className="flex flex-wrap items-center justify-center gap-10 mt-16 pt-10 border-t border-white/10"
         >
           {[
-            { icon: ShieldCheck, text: "TATO Licensed Operator" },
+            { icon: ShieldCheck, text: "Licensed Tour Operator" },
             { icon: Clock,       text: "24/7 Guest Support" },
             { icon: Award,       text: "2 Years of Expertise" },
             { icon: Leaf,        text: "Eco-Responsible Travel" },

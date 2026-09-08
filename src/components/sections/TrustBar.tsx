@@ -10,8 +10,8 @@ export function TrustBar() {
         },
         {
             icon: ShieldCheck,
-            title: "TATO Member",
-            description: "Licensed Tour Operator Company"
+            title: "Licensed Operator",
+            description: "Fully Certified Tour Company"
         },
         {
             icon: Award,

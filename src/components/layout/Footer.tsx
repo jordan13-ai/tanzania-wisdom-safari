@@ -191,7 +191,7 @@ export function Footer() {
                         {/* Certifications */}
                         <div className="flex items-center gap-6 flex-wrap justify-center md:justify-start">
                             <span className="text-[9px] font-bold tracking-[0.3em] uppercase text-white/20">Certified By</span>
-                            <span className="text-[10px] font-bold tracking-wider uppercase text-white/30 border border-white/10 px-4 py-1.5 rounded-full">TATO Member</span>
+                            <span className="text-[10px] font-bold tracking-wider uppercase text-white/30 border border-white/10 px-4 py-1.5 rounded-full">Licensed Operator</span>
                             <span className="text-[10px] font-bold tracking-wider uppercase text-white/30 border border-white/10 px-4 py-1.5 rounded-full">Tanzania Tourism</span>
                             <span className="text-[10px] font-bold tracking-wider uppercase text-white/30 border border-white/10 px-4 py-1.5 rounded-full">Eco Certified</span>
                         </div>
